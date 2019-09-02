@@ -6,11 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!<br/>
-	<h1>MINOKUMA WebSite Start!</h1>
-	<h2>NICE ! ^^v</h2>
-	<h2>Cool !!!</h2>
-	<h2>Very good ^^* hehe</h2>
+	Hello world!  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
